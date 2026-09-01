@@ -20,4 +20,7 @@ VAR_Style_Transfer_Workspace/
 2. `notebooks/01_var_d20_content_style_reconstruction.ipynb`
    Loads content/style images, tokenizes them with the VAE, and reconstructs them.
 
-Do the reconstruction notebook before implementing style injection.
+3. `notebooks/02_var_d20_vae_scale_fusion_ablation.ipynb`
+   Mixes content/style VAE token scales to see which scales preserve structure and which scales carry style-like color or texture.
+
+Do the reconstruction and scale-fusion notebooks before implementing transformer style injection.

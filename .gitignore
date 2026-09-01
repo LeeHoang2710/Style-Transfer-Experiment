@@ -1,0 +1,16 @@
+# Large/generated local files
+weights/
+outputs/
+VAR/weights/
+VAR/outputs/
+*.pth
+*.pt
+*.ckpt
+
+# Python/Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store

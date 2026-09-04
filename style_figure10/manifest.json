@@ -1,0 +1,275 @@
+[
+  {
+    "index": 1,
+    "filename": "fig10_01_colorful_origami.png",
+    "prompt_label": "colorful origami",
+    "used_for_quantitative_eval_in_paper": false,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      97.11393737792969,
+      139.60162353515625,
+      168.95050048828125,
+      211.43820190429688
+    ]
+  },
+  {
+    "index": 2,
+    "filename": "fig10_02_3d_rendering.png",
+    "prompt_label": "3d rendering",
+    "used_for_quantitative_eval_in_paper": false,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      187.0867462158203,
+      139.60162353515625,
+      258.7816162109375,
+      211.43820190429688
+    ]
+  },
+  {
+    "index": 3,
+    "filename": "fig10_03_northern_renaissance_art.png",
+    "prompt_label": "northern renaissance art",
+    "used_for_quantitative_eval_in_paper": false,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      276.9178771972656,
+      139.60162353515625,
+      348.75445556640625,
+      211.43820190429688
+    ]
+  },
+  {
+    "index": 4,
+    "filename": "fig10_04_kid_crayon_drawing.png",
+    "prompt_label": "kid crayon drawing",
+    "used_for_quantitative_eval_in_paper": true,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      366.74896240234375,
+      139.60162353515625,
+      438.5855407714844,
+      211.43820190429688
+    ]
+  },
+  {
+    "index": 5,
+    "filename": "fig10_05_oil_painting_style_portrait.png",
+    "prompt_label": "oil painting style",
+    "used_for_quantitative_eval_in_paper": true,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      456.58013916015625,
+      139.60162353515625,
+      528.4166870117188,
+      211.43820190429688
+    ]
+  },
+  {
+    "index": 6,
+    "filename": "fig10_06_matte_textured_3d_rendering.png",
+    "prompt_label": "matte textured 3d rendering",
+    "used_for_quantitative_eval_in_paper": true,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      97.11393737792969,
+      235.950439453125,
+      168.95050048828125,
+      307.7870178222656
+    ]
+  },
+  {
+    "index": 7,
+    "filename": "fig10_07_watercolor_painting.png",
+    "prompt_label": "watercolor painting",
+    "used_for_quantitative_eval_in_paper": true,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      187.0867462158203,
+      235.950439453125,
+      258.7816162109375,
+      307.7870178222656
+    ]
+  },
+  {
+    "index": 8,
+    "filename": "fig10_08_claymation.png",
+    "prompt_label": "claymation",
+    "used_for_quantitative_eval_in_paper": false,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      276.9178771972656,
+      235.950439453125,
+      348.75445556640625,
+      307.7870178222656
+    ]
+  },
+  {
+    "index": 9,
+    "filename": "fig10_09_cartoon_style_illustration.png",
+    "prompt_label": "cartoon style illustration",
+    "used_for_quantitative_eval_in_paper": false,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      366.74896240234375,
+      235.950439453125,
+      438.5855407714844,
+      307.7870178222656
+    ]
+  },
+  {
+    "index": 10,
+    "filename": "fig10_10_glowing_neon.png",
+    "prompt_label": "glowing neon",
+    "used_for_quantitative_eval_in_paper": true,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      456.58013916015625,
+      235.950439453125,
+      528.4166870117188,
+      307.7870178222656
+    ]
+  },
+  {
+    "index": 11,
+    "filename": "fig10_11_intricate_line_art_illustration.png",
+    "prompt_label": "intricate line-art illustration",
+    "used_for_quantitative_eval_in_paper": false,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      97.11393737792969,
+      332.2992248535156,
+      168.95050048828125,
+      404.13580322265625
+    ]
+  },
+  {
+    "index": 12,
+    "filename": "fig10_12_geometric_flat_illustration.png",
+    "prompt_label": "geometric flat illustration",
+    "used_for_quantitative_eval_in_paper": false,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      187.0867462158203,
+      332.2992248535156,
+      258.7816162109375,
+      404.13580322265625
+    ]
+  },
+  {
+    "index": 13,
+    "filename": "fig10_13_metallic_3d_rendering.png",
+    "prompt_label": "metallic 3D rendering",
+    "used_for_quantitative_eval_in_paper": false,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      276.9178771972656,
+      332.2992248535156,
+      348.75445556640625,
+      404.13580322265625
+    ]
+  },
+  {
+    "index": 14,
+    "filename": "fig10_14_neon_splash_comic_art.png",
+    "prompt_label": "neon splash comic art",
+    "used_for_quantitative_eval_in_paper": false,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      366.74896240234375,
+      332.2992248535156,
+      438.5855407714844,
+      404.13580322265625
+    ]
+  },
+  {
+    "index": 15,
+    "filename": "fig10_15_architectural_line_art.png",
+    "prompt_label": "architectural line art",
+    "used_for_quantitative_eval_in_paper": false,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      456.58013916015625,
+      332.2992248535156,
+      528.4166870117188,
+      404.13580322265625
+    ]
+  },
+  {
+    "index": 16,
+    "filename": "fig10_16_retro_sci_fi_graphic.png",
+    "prompt_label": "retro sci-fi graphic",
+    "used_for_quantitative_eval_in_paper": false,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      97.11393737792969,
+      428.6481018066406,
+      168.95050048828125,
+      500.48468017578125
+    ]
+  },
+  {
+    "index": 17,
+    "filename": "fig10_17_flat_cartoon_vector_art.png",
+    "prompt_label": "flat cartoon vector art",
+    "used_for_quantitative_eval_in_paper": true,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      187.0867462158203,
+      428.6481018066406,
+      258.7816162109375,
+      500.48468017578125
+    ]
+  },
+  {
+    "index": 18,
+    "filename": "fig10_18_matte_worn_wooden_sculpture.png",
+    "prompt_label": "matte and worn out textured wooden sculpture",
+    "used_for_quantitative_eval_in_paper": true,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      276.9178771972656,
+      428.6481018066406,
+      348.75445556640625,
+      500.48468017578125
+    ]
+  },
+  {
+    "index": 19,
+    "filename": "fig10_19_melting_golden_3d_rendering.png",
+    "prompt_label": "melting golden 3d rendering",
+    "used_for_quantitative_eval_in_paper": true,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      366.74896240234375,
+      428.6481018066406,
+      438.5855407714844,
+      500.48468017578125
+    ]
+  },
+  {
+    "index": 20,
+    "filename": "fig10_20_oil_painting_style_starry.png",
+    "prompt_label": "oil painting style",
+    "used_for_quantitative_eval_in_paper": true,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      456.58013916015625,
+      428.6481018066406,
+      528.4166870117188,
+      500.48468017578125
+    ]
+  },
+  {
+    "index": 21,
+    "filename": "fig10_21_short_line_drawing.png",
+    "prompt_label": "short line drawing",
+    "used_for_quantitative_eval_in_paper": true,
+    "source": "arXiv:2507.04482v2 Figure 10, page 14; StyleDrop data.md provides image/source attributions for this benchmark family",
+    "pdf_rect": [
+      97.11393737792969,
+      533.6400146484375,
+      168.95050048828125,
+      605.4765625
+    ]
+  }
+]
